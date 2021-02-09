@@ -1,0 +1,140 @@
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-01-30/18:50:21		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-01-30/18:50:21		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-01-30/18:50:21		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-01-30/18:50:21		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-01/19:29:00		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:30:26		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:30:28		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:30:58		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:32:11		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:32:16		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-01/19:39:00		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-01/19:39:00		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-01/19:39:00		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-01/19:39:00		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-01/19:40:13		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-01/19:40:13		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-01/19:40:13		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-01/19:40:13		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-01/19:43:17		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/InputFile.csv'
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-01/20:16:17		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-01/20:16:17		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-01/20:16:17		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-01/20:16:17		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-01/20:22:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-01/20:22:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-01/20:22:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-01/20:22:56		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-01/20:23:48		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-01/20:23:48		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-01/20:23:48		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-01/20:23:48		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+2021-02-02/05:08:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+2021-02-02/05:08:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+2021-02-02/05:08:56		Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+2021-02-02/05:08:56		Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
